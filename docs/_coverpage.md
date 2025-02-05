@@ -5,6 +5,7 @@
 # Blog <small>0.1</small>
 
 <!-- > A magical documentation site generator. -->
+> Try somethings
 
 - B/S Web
 - DeepSeek
