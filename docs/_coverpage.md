@@ -14,4 +14,4 @@
 [GitHub](https://github.com/LiXiaoshuoX/Blog/)
 [Get Started](/)
 
-![color](#f0f0f0)
+![color](#fff0f0)
