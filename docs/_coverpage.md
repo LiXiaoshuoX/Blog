@@ -2,13 +2,15 @@
 
 <!-- ![logo](_media/icon.svg) --> 
 
-# docsify <small>3.5</small>
+# Blog <small>0.1</small>
 
-> A magical documentation site generator.
+<!-- > A magical documentation site generator. -->
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- B/S Web
+- DeepSeek
+- Github page 
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/LiXiaoshuoX/Blog/)
+[Get Started](/)
+
+![color](#f0f0f0)
