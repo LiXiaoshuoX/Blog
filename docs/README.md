@@ -1,8 +1,8 @@
 # This is my Blog.
 ------------------
 
-[] DeepSeek
-[] vm
+- [ ] DeepSeek
+- [ ] vm
 * python
 * mysql
 * pycharm
